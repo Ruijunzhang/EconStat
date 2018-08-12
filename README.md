@@ -1,6 +1,5 @@
 # econstat
-
-> y
+Reactive economics statistics
 
 ## Build Setup
 
